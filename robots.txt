@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arifrennell.github.io/arif-rennell-file/sitemap.xml
